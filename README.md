@@ -1,8 +1,7 @@
 # address-book
 
-##### Epicodus Section: JavaScript OO - Address Book
 
-#### By Epicodus Lessons
+#### By Anduin Mooney
 
 ## Description
 
@@ -18,7 +17,7 @@ JavaScript and jQuery
 
 ### Legal
 
-Copyright (c) 2015 **Epicodus**
+Copyright (c) 2018 **Anduin**
 
 This software is licensed under the MIT license.
 
